@@ -8,6 +8,11 @@
 
 # 📚 AskMyNotes — Subject-Scoped AI Study Copilot
 
+🚀 **Live Demo**: [https://askmynotes-algorise.vercel.app](https://askmynotes-algorise.vercel.app)
+
+> [!IMPORTANT]
+> **Note**: Responses may occasionally fail with a "something went wrong" message due to the daily 20-request quota limit of the Gemini API free tier.
+
 > **Stop asking general AI. Ask your notes.**  
 > The AI tutor that actually knows your curriculum, provides citations, and prevents hallucinations.
 
